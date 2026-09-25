@@ -1,0 +1,3 @@
+DSN Mart operates a chain of stores across Nigeria, from small corner shops to flagship hypermarketS, spread across major urban centers, state capitals, and smaller towns. Like any growing retail business, DSN Mart wants to understand what drives sales at the product level across its different store formats and locations, so it can plan stock, pricing, and store investment more intelligently.
+
+For each row in test.csv, predict the value of total_sales. This is a regression problem. Your model's predictions are compared against the true sales values using Root Mean Squared Error (RMSE): lower is better.
